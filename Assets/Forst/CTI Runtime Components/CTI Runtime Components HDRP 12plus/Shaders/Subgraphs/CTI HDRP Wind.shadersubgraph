@@ -397,12 +397,11 @@
         "preventRotation": false
     },
     "m_Path": "Sub Graphs",
-    "m_GraphPrecision": 0,
+    "m_GraphPrecision": 1,
     "m_PreviewMode": 2,
     "m_OutputNode": {
         "m_Id": "38e5ca055816868f8451140a9101c7c3"
     },
-    "m_SubDatas": [],
     "m_ActiveTargets": []
 }
 
